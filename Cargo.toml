@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 git2 = "0.15.0"
 tokio = { version = "1.21.2", features = ["full"] }
+tracing-subscriber = "0.3.16"
